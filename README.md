@@ -1,0 +1,2 @@
+# Transfer-learning
+Transfer_learning_dataset_daun_(GMB3_GMB7)_VGG_16_Fardhina_amalia.ipynb
